@@ -15,3 +15,5 @@ build/
 .python-version
 
 .vscode/
+
+environment.txt
